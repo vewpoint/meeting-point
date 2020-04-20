@@ -21,14 +21,15 @@ The focus of the experiment is **to connect people and initiatives** that work, 
     - How can I navigate the conversations?
 - [Links](#Links)
 
+<br>
 
-## The meta problem
+# The meta problem
 
 **How do we collect and organize the information about how we collect and organize information when we do not have the tools we need to collect and organize information?**
 
 The question can be posed both from an individual and a collective perspective, and the result can naturally prioritize one over the other.
 
-## The need
+# The need
 
 In this quest, how can we find a balance between individual and collective needs, **using existing tools**, respecting one's own space while adding value to the group, sharing a common space?
 
@@ -42,7 +43,7 @@ In this quest, how can we find a balance between individual and collective needs
 
 **How can we keep individual and collective workspaces connected?**
 
-### Is it possible to meet this need in GitHub?
+## Is it possible to meet this need in GitHub?
 
 - You can collaborate on the other's perspective (fork + pull request), but the resulting perspective ends up being under the control of the other. 
 - Starting from an existing perspective (clone), you can continue to develop it independently, keeping reference to the initial project, but this does not imply that
@@ -51,11 +52,11 @@ In this quest, how can we find a balance between individual and collective needs
 
 "GitHub brings teams together to work through problems, move ideas forward, and learn from each other along the way" <sup>[[from GitHub homepage](https://github.com/)]</sup>, but its design does not directly address the described needs. This doesn't necessarily mean we can't use GitHub for our purpose, but we'll have to explore other ways of using its features to find it out for ourselves, as in [this case](https://github.com/sindresorhus/awesome).
 
-## The proposal
+# The proposal
 
 **Assign an issue per person or initiative** (project, product, service, app, foundation...), so that we can create conversations around the particular perspective behind it. 
 
-### How does it respond to needs?
+## How does it respond to needs?
 
 #### Individual need
 
@@ -66,7 +67,7 @@ In this quest, how can we find a balance between individual and collective needs
 - Not only do we have a shared space where anyone with a GitHub account can participate in the conversation, we are creating in a collective way, easily and with few restrictions, a directory where we can discover and connect with other people and initiatives that are part of the same ecosystem. 
 - In the conversation, simply add the link to your personal space for others to find it. 
 
-### How can I participate?
+## How can I participate?
 
 #### Create an issue
 
@@ -80,7 +81,7 @@ In this quest, how can we find a balance between individual and collective needs
 - If you don't see your perspective represented in an issue, share it. Every perspective adds up.
 - If you are already part of the conversation and have not been created an issue with your name yet, feel free to create it and introduce yourself. We are here to connect with others. Tell us what brings you here, not your CV.
 
-### How can I navigate the conversations?
+## How can I navigate the conversations?
 
 I can imagine two scenarios, useful for me, but the particular case for each one may be different. [Search filters](https://help.github.com/en/github/searching-for-information-on-github/searching-issues-and-pull-requests) are powerful but not perfect. They have not been designed with the proposed use case in mind.
 
@@ -98,7 +99,7 @@ To mark those I have seen, I leave a comment. To mark those I have seen and are 
 
 > You can also play with the notification settings for each issue.
 
-## Links
+# Links
 
 What do you think about the proposal? Do you think it addresses your needs and the needs of the collective? Would you like to add or change something? We can talk about it in [this issue](https://github.com/vewpoint/meeting-point/issues/1).
 
