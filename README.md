@@ -18,7 +18,6 @@ The focus of the experiment is **to connect people and initiatives** that work, 
     - How does it respond to needs?
     - How can I participate?
     - How can I navigate the conversations?
-    - How can I navigate the conversations?
 - [Links](#Links)
 
 <br>
