@@ -1,3 +1,11 @@
+<div align="center">
+
+*This repository is no longer maintained. Stored for reference purposes.*
+
+</div>
+
+---
+
 # Meeting point
 
 **This is an experiment** to coordinate efforts in the collective task of finding alternatives to our current relationship with digital information.
